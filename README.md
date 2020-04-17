@@ -1,2 +1,3 @@
-# SFBasicKit
-A Basic Foundamental Kit For iOS Development.
+# SFKit
+A Super Foundamental Kit For iOS Development.
+On Testing.
